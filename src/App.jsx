@@ -24,13 +24,13 @@ function App() {
         <img src={L1} alt="" />
         <img src={L2} alt="" />
         <img src={L3} alt="" />
-        <img className="Man" src={F1} alt="" />
-        <p className="man-text">
+        <img className="male" src={F1} alt="" />
+        <p className="male-text">
           this is not my photo, but I dearly hope to get one just like this{" "}
         </p>
       </div>
 
-      <div className="itblogo">
+      <div className="apple">
         <Fact />
       </div>
       <div className="sect3">
@@ -38,14 +38,14 @@ function App() {
         <img src={A1} alt="" />
       </div>
       <div>
-        <div className="rectanglelast">
+        <div className="flower">
           <h3>SKILLS</h3>
         </div>
       </div>
-      <div className="skills-learn">
-        <p className="pp">USING NOW:</p>
-        <p class="pp">LEARNING:</p>
-        <p class="pp">OTHER SKILLS:</p>
+      <div className="magic">
+        <p className="cc">USING NOW:</p>
+        <p class="cc">LEARNING:</p>
+        <p class="cc">OTHER SKILLS:</p>
       </div>
     </>
   );
