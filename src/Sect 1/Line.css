@@ -1,0 +1,22 @@
+.Water {
+  margin: 10rem 10rem;
+}
+.Water .Am {
+  font-family: Raleway;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 4rem;
+}
+.Water .Tomasz {
+  font-family: Raleway;
+  font-size: 3.5rem;
+  font-weight: 700;
+  line-height: 3rem;
+  padding-top: 1.5rem;
+}
+.Water .Developer {
+  font-family: Raleway;
+  font-size: 1.2rem;
+  font-weight: 800;
+  line-height: 1.5rem;
+}

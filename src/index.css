@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.section1 {
+  max-width: 250vw;
+  min-height: 102.2vh;
+  background-image: url(./Images/Rectangle67.png);
+  background-repeat: no-repeat;
+  background-position: right center;
+  background-size: 60% 100%;
+  background-color: #d7d7d7;
+}
+.man {
+  position: absolute;
+  width: 38vw;
+  height: 80.5vh;
+  top: 21.5%;
+  left: 52%;
+}
